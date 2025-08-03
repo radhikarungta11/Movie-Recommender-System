@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Movie-Recommender-System
 =======
-# Movie-Recommender-System
+# Movie-Recommender-System  
 Unlock Your Next Favorite Film! Our NLP-powered Movie Recommendation Web App delivers tailored suggestions based on cast, genres, and production companies. Explore a seamless Streamlit interface, also, you can see the description of selected movies. and all movies list.
  
  Movie Recommender System using Python and Natural Language Processing (NLP).
