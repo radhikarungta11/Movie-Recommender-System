@@ -4,7 +4,7 @@ from streamlit_extras.stoggle import stoggle
 from processing import preprocess           
 from processing.display import Main             
              
-# Setting the wide mode as default  
+# Setting the wide mode as default   
 st.set_page_config(layout="wide")      
 
 displayed = []
