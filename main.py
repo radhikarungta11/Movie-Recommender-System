@@ -7,7 +7,7 @@ from processing.display import Main
 # Setting the wide mode as default   
 st.set_page_config(layout="wide")          
 
-displayed = []  
+displayed = []    
 
 if 'movie_number' not in st.session_state:
     st.session_state['movie_number'] = 0
