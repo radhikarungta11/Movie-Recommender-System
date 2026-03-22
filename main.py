@@ -8,7 +8,7 @@ from processing.display import Main
 st.set_page_config(layout="wide")            
 
 displayed = []    
-
+  
 if 'movie_number' not in st.session_state:
     st.session_state['movie_number'] = 0
 
